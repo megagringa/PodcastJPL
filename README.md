@@ -1,4 +1,4 @@
-# # Sitio Web "PodCast", BLUE.
+# # Sitio Web "PodCast", blue dot.
 
 ### [PodCast](https://megagringa.github.io/PodcastJPL/index.html)
 
