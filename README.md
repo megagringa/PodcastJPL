@@ -6,9 +6,9 @@ Trabajo número 1 del curso de Desarrollo Web Full Stack de Acámica.
 
 ## Lenguajes y tecnologías.
 
-- **HTML**:
-  -HTML
-  -CSS
+- **HTML5**:
+    - HTML
+    - CSS
 - FontAwesome
 - Google Fonts
 
